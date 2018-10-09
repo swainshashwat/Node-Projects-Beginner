@@ -1,2 +1,2 @@
-# NodeJS Projects for Beginner
+# Simple NodeJS Server
 Understanding Server Programming and Building mini NodeJS projects.
